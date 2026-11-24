@@ -1,9 +1,12 @@
 // The Worst App Idea Ever Pitched — make.fun entry.
-// The program writes one single-sentence pitch to /output/entry.txt.
+// Final pitch: BoredBoard — a face-scanning boredom scorer that emails
+// the results to your boss every Friday at five. 129 characters,
+// one sentence, inside the 1–240 character gate.
+// The program writes the pitch to /output/entry.txt.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const PITCH =
-  "Uber for borrowed chargers: a stranger arrives in 40 minutes with a cable that fits nothing you own, and you tip him for the hope.";
+  "BoredBoard scans your face in meetings, scores your boredom out of ten, and emails the results to your boss every Friday at five.";
 
 // Guard: the gate only accepts UTF-8 text of 1 to 240 characters,
 // not only white space, as a single sentence. Fail loudly instead

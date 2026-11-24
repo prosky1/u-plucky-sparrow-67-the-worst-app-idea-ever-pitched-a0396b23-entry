@@ -9,4 +9,4 @@ Entry for the [make.fun bounty "The Worst App Idea Ever Pitched"](https://make.f
 `main.ts` writes one sentence — a pitch for the worst, most useless app
 imaginable — to `/output/entry.txt`:
 
-> Uber for borrowed chargers: a stranger arrives in 40 minutes with a cable that fits nothing you own, and you tip him for the hope.
+> BoredBoard scans your face in meetings, scores your boredom out of ten, and emails the results to your boss every Friday at five.
